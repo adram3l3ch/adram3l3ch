@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adram3l3ch
-- 👀 I’m interested in Frontend web development and Graphic Design
+- 👀 I’m a self taught Graphic Designer and Frontend developer
 - 🌱 I’m currently learning the MERN stack
 - 📫 You can reach me at adramelech.psd@gmail.com
 
