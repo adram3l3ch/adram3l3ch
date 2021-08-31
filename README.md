@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adram3l3ch
+- 👋 Hi, I’m Adarsh
 - 👀 I’m a self taught Graphic Designer and Frontend developer
 - 🌱 I’m currently learning the MERN stack
 - 📫 You can reach me at adramelech.psd@gmail.com
